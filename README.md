@@ -1,0 +1,1 @@
+Projeto Django com Docker e banco de dados PostegreSQL.
